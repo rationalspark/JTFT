@@ -1,6 +1,6 @@
 # JTFT
 
-This is an anonymous implementation of JTFT: "A Joint Time-frequency Domain Transformer for Multivariate Time Series Forecasting."
+This is an implementation of JTFT: "A Joint Time-frequency Domain Transformer for Multivariate Time Series Forecasting."
 
 ## Usage
 
