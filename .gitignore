@@ -1,0 +1,9 @@
+*.log
+*.pyc
+.vs/
+dataset/
+results/
+pic/
+checkpoints/
+test_results/
+result.txt
